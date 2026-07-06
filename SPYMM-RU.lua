@@ -1,7 +1,6 @@
 -- SPYMM v8.3 РУСИФИЦИРОВАННАЯ ВЕРСИЯ
 -- Полный перевод на русский язык
 
-loadstring([[
 --[[
     SPYMM v8.3 - Obsidian UI
     Survive the Apocalypse (РУСИФИЦИРОВАНА)
